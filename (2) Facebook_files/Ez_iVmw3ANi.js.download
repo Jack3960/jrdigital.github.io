@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["5nR+L"]); }
+
+__d("getVideoBrowserTabId",["guid"],(function(a,b,c,d,e,f){var g=b("guid")().slice(-8);function a(){return g}e.exports=a}),null);
