@@ -55,8 +55,6 @@ nav ul li a{
 	padding: 16px 10px 12px 10px;
 }
 
-.footer:hover{
-	background-color: blue;
-	color: white;
-	padding: 16px 8px 12px 8px;
+body{
+	background-color: red;
 }
