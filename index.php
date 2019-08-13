@@ -11,9 +11,9 @@
 		<h1>Rock Band</h1>
 		<nav>
 			<ul>
-				<li><a class="activ" href="index.phpphpphpphp">HOME</a></li>
-				<li><a class="noactiv" href="video.phpphpphp">VIDEOS</a></li>
-				<li><a class="noactiv" href="about.phpphp">ABOUT</a></li>
+				<li><a class="activ" href="index.php">HOME</a></li>
+				<li><a class="noactiv" href="video.php">VIDEOS</a></li>
+				<li><a class="noactiv" href="about.php">ABOUT</a></li>
 				<li><a class="noactiv" href="contact.php">CONTECT</a></li>
 			</ul>
 		</nav>
