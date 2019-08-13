@@ -2,9 +2,11 @@
 <html>
 <head>
 <title>Jack Mayavanshi</title>
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/contect.css">
 </head>
 <body>
+	<div class="redline">
+	</div>
 	<header>
 		<h1>Rock Band</h1>
 		<nav>

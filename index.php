@@ -5,6 +5,8 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+	<div class="redline">
+	</div>
 	<header>
 		<h1>Rock Band</h1>
 		<nav>

@@ -1,4 +1,14 @@
+.redline{
+	background: red;
+	height: 5px;
+}
+
 body{
+	background-image: url("../image/123.jpg");
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
 	margin: 0;
 }
 
@@ -72,4 +82,8 @@ div ul li{
 div ul li iframe{
 	color: white;
 	text-decoration: none;
+}
+
+div iframe{
+	top: 5px;
 }

@@ -5,6 +5,8 @@
 	<link rel="stylesheet" href="css/video.css">
 </head>
 <body>
+	<div class="redline">
+	</div>
 	<header>
 		<h1>Rock Band</h1>
 		<nav>
@@ -20,8 +22,8 @@
 	</div>
 	<div>
 		<ul>
-	     <li><iframe width="250" height="150" src="https://www.youtube.com/embed/EzKKvtUXZyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>jack mayavanshi</iframe></li>
-	
+	     <li><iframe width="250" height="150" src="https://www.youtube.com/embed/EzKKvtUXZyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+	    
 	     <li><iframe width="250" height="150" src="https://www.youtube.com/embed/SkXoIHpGR7U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
 		
 		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/7Is-i0Sg4sY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
@@ -29,6 +31,16 @@
 		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/yOfTlzFsvwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
 		
 		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/0OxfVR2f0lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+			
+		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/JoH5SFX_e_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+			
+		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/fgEVd2eOVz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+			
+		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/jTKJPCphqKI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+			
+		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/riErv1praJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+			
+		<li><iframe width="250" height="150" src="https://www.youtube.com/embed/-k0pCpTVe1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
 	</div>
 	
 </body>
