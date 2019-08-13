@@ -13,7 +13,7 @@
 			<ul>
 				<li><a class="noactiv" href="index.php">HOME</a></li>
 				<li><a class="noactiv" href="video.php">VIDEOS</a></li>
-				<li><a class="noactiv" href="about.phpphp">ABOUT</a></li>
+				<li><a class="noactiv" href="about.php">ABOUT</a></li>
 				<li><a class="activ" href="contact.php">CONTECT</a></li>
 			</ul>
 		</nav>
