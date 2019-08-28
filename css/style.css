@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+div.white{
+	padding-bottom: 1350px
+}
+.Copyright{
+	background-color: gray;
+	background-size: cover;
+}
+.icon{
+	width: 45px;
+	height: 45px;
+}
+p{
+	text-align: center;
+}
+.px{
+	margin-left: 30px;
+}
+.ud{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+footer{
+	text-align: center;
+	color: white;
+}
+p a{
+	color: white;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+h3{
+	margin-left: 60px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.img{
+	margin-left: 20px;
+}
