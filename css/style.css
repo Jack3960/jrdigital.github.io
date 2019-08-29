@@ -2,6 +2,10 @@
 	margin: 0px;
 	padding: 0px;
 }
+h1{
+    text-align: center;
+	font-size: 40px;
+}
 div.white{
 	padding-bottom: 1350px
 }
@@ -9,7 +13,7 @@ div.white{
 	background-color: gray;
 	background-size: cover;
 }
-.icon{
+.icon1{
 	width: 45px;
 	height: 45px;
 }
